@@ -10,13 +10,13 @@ The readme will include step-by-step instructions on how to run and test the fil
 
 ### Installing
 #### Step 1. 
-Log into your database application. In there, create an actual database. I named mine CS157A.  [It looks like this in IBM DB2](https://cdn.discordapp.com/attachments/316348168465809408/387145801740189696/unknown.png)
+Log into your database application. In there, create an actual database. I named mine CS157A.  ![It looks like this in IBM DB2](https://cdn.discordapp.com/attachments/316348168465809408/387145801740189696/unknown.png)
 
 #### Step 2.
-In your database application, access your database terminal. The command line should be given. [It looks like this in DB2](https://cdn.discordapp.com/attachments/316348168465809408/387361364622180359/unknown.png)
+In your database application, access your database terminal. The command line should be given. ![It looks like this in DB2](https://cdn.discordapp.com/attachments/316348168465809408/387361364622180359/unknown.png)
 
 #### Step 3.
-In the terminal, open up the text editor. For me, it's VI text editor. ![Check here for command instructions](https://www.cs.colostate.edu/helpdocs/vi.html)
+In the terminal, open up the text editor. For me, it's VI text editor. [Check here for command instructions](https://www.cs.colostate.edu/helpdocs/vi.html)
 
 #### Step 4.
 For VI text editor, the command is 
